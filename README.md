@@ -15,4 +15,22 @@ ou
     |   |   ├── assets
     |   |   ├── ...
     
-Complete o .readme usando .readme.template, depois dê git init e faça upload para a pagina do laboratório
+Apague esse trecho, depois complete o template abaixo. Em seguida, dê git init e faça upload para a pagina do laboratório.
+
+# Nome do Projeto
+
+Breve descrição
+
+
+# Instalação
+
+### Versão Unity
+
+202X.XX.X
+
+O que devo fazer para baixar e rodar no meu computador? 
+
+
+Onde devo rodar?
+
+    > Devo instalar algo?
