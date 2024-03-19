@@ -15,20 +15,25 @@ ou
     |   |   ├── assets
     |   |   ├── ...
     
-Apague esse trecho, depois complete o template abaixo. Em seguida, dê git init e faça upload para a pagina do laboratório.
+Apague esse cabeçalho, depois complete o template abaixo. Em seguida, dê git init e faça upload para a pagina do laboratório.
+
+PS. Se for usar comunicação Serial, *não use porta com nome fixo*. Não declare no código "COM3" ou qualquer coisa assim. Porque em cada computador, pode ser diferente. Faça um menu para escolha da porta.
 
 # Nome do Projeto
 
 Breve descrição
 
+# Envolvido(s)
+ - Fulana
+ - Sicrana
 
 # Instalação
 
 ### Versão Unity
 
-202X.XX.X
+202X.X.XX
 
-O que devo fazer para baixar e rodar no meu computador? 
+O que devo fazer para baixar e rodar no meu computador? Foi testado em que OS?
 
 
 Onde devo rodar?
